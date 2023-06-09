@@ -1,2 +1,2 @@
 # Trees
-Practice these problems to master traversing techniques.
+Practice these problems to master tree data-structure.
